@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Homework_02\Homework_02\bin\Debug\netcoreapp3.1\Homework_02.exe
+C:\Users\Dell\source\repos\Homework_02\Homework_02\bin\Debug\netcoreapp3.1\Homework_02.deps.json
+C:\Users\Dell\source\repos\Homework_02\Homework_02\bin\Debug\netcoreapp3.1\Homework_02.runtimeconfig.json
+C:\Users\Dell\source\repos\Homework_02\Homework_02\bin\Debug\netcoreapp3.1\Homework_02.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Homework_02\Homework_02\bin\Debug\netcoreapp3.1\Homework_02.dll
+C:\Users\Dell\source\repos\Homework_02\Homework_02\bin\Debug\netcoreapp3.1\Homework_02.pdb
+C:\Users\Dell\source\repos\Homework_02\Homework_02\obj\Debug\netcoreapp3.1\Homework_02.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Homework_02\Homework_02\obj\Debug\netcoreapp3.1\Homework_02.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Homework_02\Homework_02\obj\Debug\netcoreapp3.1\Homework_02.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Homework_02\Homework_02\obj\Debug\netcoreapp3.1\Homework_02.dll
+C:\Users\Dell\source\repos\Homework_02\Homework_02\obj\Debug\netcoreapp3.1\Homework_02.pdb
