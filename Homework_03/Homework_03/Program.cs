@@ -74,6 +74,7 @@ namespace Homework_03
             var index = 0;
             string[] namesArray = new string[100];
             Console.WriteLine("Enter a name:");
+            Console.WriteLine("Do you want to enter another name? Y/N");
             while (true)
             {
                 string input = Console.ReadLine();
@@ -83,20 +84,20 @@ namespace Homework_03
                     namesArray[index] = input;
                     index++;
                 }
-                Console.WriteLine("Do you want to enter another name? Y/N");
-                if(input.ToUpper() == "N")
+               
+                if (input.ToUpper() == "Y")
+                { 
+                     continue;
+                } else if (input.ToUpper() == "N")
                 {
-                    Console.WriteLine("Names in namesArray are:");
                     foreach (var name in namesArray)
                     {
                         Console.WriteLine(name);
+                        
                     }
-                    break;
-                }
+                }                        
             }
-            Console.ReadLine();
-
-            
+            Console.ReadLine();    
             
            #endregion
         }
