@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Bonus_Homework\Bonus_Homework\bin\Debug\netcoreapp3.1\Bonus_Homework.exe
+C:\Users\Dell\source\repos\Bonus_Homework\Bonus_Homework\bin\Debug\netcoreapp3.1\Bonus_Homework.deps.json
+C:\Users\Dell\source\repos\Bonus_Homework\Bonus_Homework\bin\Debug\netcoreapp3.1\Bonus_Homework.runtimeconfig.json
+C:\Users\Dell\source\repos\Bonus_Homework\Bonus_Homework\bin\Debug\netcoreapp3.1\Bonus_Homework.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Bonus_Homework\Bonus_Homework\bin\Debug\netcoreapp3.1\Bonus_Homework.dll
+C:\Users\Dell\source\repos\Bonus_Homework\Bonus_Homework\bin\Debug\netcoreapp3.1\Bonus_Homework.pdb
+C:\Users\Dell\source\repos\Bonus_Homework\Bonus_Homework\obj\Debug\netcoreapp3.1\Bonus_Homework.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Bonus_Homework\Bonus_Homework\obj\Debug\netcoreapp3.1\Bonus_Homework.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Bonus_Homework\Bonus_Homework\obj\Debug\netcoreapp3.1\Bonus_Homework.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Bonus_Homework\Bonus_Homework\obj\Debug\netcoreapp3.1\Bonus_Homework.dll
+C:\Users\Dell\source\repos\Bonus_Homework\Bonus_Homework\obj\Debug\netcoreapp3.1\Bonus_Homework.pdb

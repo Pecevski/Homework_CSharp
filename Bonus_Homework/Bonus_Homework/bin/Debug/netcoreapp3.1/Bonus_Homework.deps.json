@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bonus_Homework/1.0.0": {
+        "runtime": {
+          "Bonus_Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bonus_Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
