@@ -190,19 +190,22 @@ namespace Bonus_Homework
 
                 if (userInput == userNames[0] && passInput == passwords[0])
                 {
-                    Console.WriteLine("You are logged in successfully");
+                    Console.WriteLine("You are logged in successfully!");
+                    break;
                 }
                 else if (userInput == userNames[1] && passInput == passwords[1])
                 {
-                    Console.WriteLine("You are logged in successfully");
+                    Console.WriteLine("You are logged in successfully!");
+                    break;
                 }
                 else if (userInput == userNames[2] && passInput == passwords[2])
                 {
-                    Console.WriteLine("You are logged in successfully");
+                    Console.WriteLine("You are logged in successfully!");
+                    break;
                 }
                 else
                 {
-                    Console.WriteLine("Incorrect username or password");
+                    Console.WriteLine("Incorrect username or password!");
                 }
             }
 
