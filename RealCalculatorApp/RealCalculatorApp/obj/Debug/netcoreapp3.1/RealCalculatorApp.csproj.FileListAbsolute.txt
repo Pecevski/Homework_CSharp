@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\RealCalculatorApp\RealCalculatorApp\bin\Debug\netcoreapp3.1\RealCalculatorApp.exe
+C:\Users\Dell\source\repos\RealCalculatorApp\RealCalculatorApp\bin\Debug\netcoreapp3.1\RealCalculatorApp.deps.json
+C:\Users\Dell\source\repos\RealCalculatorApp\RealCalculatorApp\bin\Debug\netcoreapp3.1\RealCalculatorApp.runtimeconfig.json
+C:\Users\Dell\source\repos\RealCalculatorApp\RealCalculatorApp\bin\Debug\netcoreapp3.1\RealCalculatorApp.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\RealCalculatorApp\RealCalculatorApp\bin\Debug\netcoreapp3.1\RealCalculatorApp.dll
+C:\Users\Dell\source\repos\RealCalculatorApp\RealCalculatorApp\bin\Debug\netcoreapp3.1\RealCalculatorApp.pdb
+C:\Users\Dell\source\repos\RealCalculatorApp\RealCalculatorApp\obj\Debug\netcoreapp3.1\RealCalculatorApp.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\RealCalculatorApp\RealCalculatorApp\obj\Debug\netcoreapp3.1\RealCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\RealCalculatorApp\RealCalculatorApp\obj\Debug\netcoreapp3.1\RealCalculatorApp.AssemblyInfo.cs
+C:\Users\Dell\source\repos\RealCalculatorApp\RealCalculatorApp\obj\Debug\netcoreapp3.1\RealCalculatorApp.dll
+C:\Users\Dell\source\repos\RealCalculatorApp\RealCalculatorApp\obj\Debug\netcoreapp3.1\RealCalculatorApp.pdb
