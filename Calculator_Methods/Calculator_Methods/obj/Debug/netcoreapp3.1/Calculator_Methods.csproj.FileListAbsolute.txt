@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\obj\Debug\netcoreapp3.1\Calculator_Methods.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\obj\Debug\netcoreapp3.1\Calculator_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\obj\Debug\netcoreapp3.1\Calculator_Methods.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\obj\Debug\netcoreapp3.1\Calculator_Methods.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\bin\Debug\netcoreapp3.1\Calculator_Methods.exe
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\bin\Debug\netcoreapp3.1\Calculator_Methods.deps.json
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\bin\Debug\netcoreapp3.1\Calculator_Methods.runtimeconfig.json
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\bin\Debug\netcoreapp3.1\Calculator_Methods.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\bin\Debug\netcoreapp3.1\Calculator_Methods.dll
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\bin\Debug\netcoreapp3.1\Calculator_Methods.pdb
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\obj\Debug\netcoreapp3.1\Calculator_Methods.dll
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\obj\Debug\netcoreapp3.1\Calculator_Methods.pdb
+C:\Users\Dell\OneDrive\Vezbi_C#\Calculator_Methods\Calculator_Methods\obj\Debug\netcoreapp3.1\Calculator_Methods.genruntimeconfig.cache
