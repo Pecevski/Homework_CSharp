@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\bin\Debug\netcoreapp3.1\Login_Register_App.exe
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\bin\Debug\netcoreapp3.1\Login_Register_App.deps.json
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\bin\Debug\netcoreapp3.1\Login_Register_App.runtimeconfig.json
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\bin\Debug\netcoreapp3.1\Login_Register_App.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\bin\Debug\netcoreapp3.1\Login_Register_App.dll
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\bin\Debug\netcoreapp3.1\Login_Register_App.pdb
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\obj\Debug\netcoreapp3.1\Login_Register_App.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\obj\Debug\netcoreapp3.1\Login_Register_App.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\obj\Debug\netcoreapp3.1\Login_Register_App.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\obj\Debug\netcoreapp3.1\Login_Register_App.dll
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\obj\Debug\netcoreapp3.1\Login_Register_App.pdb
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\obj\Debug\netcoreapp3.1\Login_Register_App.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Login_Register_App\Login_Register_App\obj\Debug\netcoreapp3.1\Login_Register_App.genruntimeconfig.cache
