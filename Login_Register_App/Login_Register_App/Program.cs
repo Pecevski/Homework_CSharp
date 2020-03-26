@@ -109,8 +109,11 @@ namespace Login_Register_App
                             switch (optionAdmin)
                             {
                                 case "1":
-                                    Console.WriteLine(arrUsers);
-                                    Console.ReadLine();
+                                     foreach (var user in arrUsers)
+                                    {
+                                        Console.WriteLine(user);
+                                        Console.ReadLine();
+                                    }          
                                     break;
                                 case "2":
                                     Console.WriteLine("Provide users email which you want to delete!");
