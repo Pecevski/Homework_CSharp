@@ -65,17 +65,17 @@ namespace Calculator_Methods
                     case '+':
                         int suming = Sum(numOne, numTwo);
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine($"Result: " + suming);
+                        Console.WriteLine($"Result: {suming}");
                         break;
                     case '-':
                         int minus = Substract(numOne, numTwo);
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine($"Result: " + minus);
+                        Console.WriteLine($"Result:  {minus}");
                         break;
                     case '*':
                         int product = Multiply(numOne, numTwo);
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine($"Result:" + product);
+                        Console.WriteLine($"Result: {product}");
                         break;
                     case '/':
                         int result = Divide(numOne, numTwo);
@@ -86,7 +86,7 @@ namespace Calculator_Methods
                             break;
                         }
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine($"Result: " + result);
+                        Console.WriteLine($"Result:  {result}");
                         break;
                     default:
                         Console.ForegroundColor = ConsoleColor.Red;
