@@ -9,8 +9,8 @@ namespace Login_Register_App
         {
             
             bool successfull = false;
-            string[]arrUsers = new string[100];
-            
+            //string[]arrUsers = new string[100];
+            string[] arrUsers = new string[] { };
             var admin = "admin@admindomain.com";
             var adminPass = "Ad#mi8$s@!";
 
@@ -66,27 +66,33 @@ namespace Login_Register_App
                         var userEmail = Console.ReadLine();
                         Console.WriteLine("Enter your password:");
                         var loginPass = Console.ReadLine();
-
-                        foreach (var user in arrUsers)
+                        if (arrUsers.Length > 0)
                         {
-                           
-                            var pattern = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,30})+)$");
-                            var logPattern = new Regex("^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{10,}$");
+                            foreach (var user in arrUsers)
+                            {
 
-                            if (pattern.IsMatch(userEmail) && logPattern.IsMatch(loginPass))
-                            {
-                                Console.WriteLine("You are loged in !");
-                                Console.ReadLine();
-                                successfull = true;
-                                break;
-                            }                                                        
-                 
-                            else
-                            {
-                                Console.WriteLine("Your username or password  is incorrect, try again !");
-                                Console.ReadLine();
-                                break;
-                            }
+                                var pattern = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,30})+)$");
+                                var logPattern = new Regex("^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{10,}$");
+
+                                if (pattern.IsMatch(userEmail) && logPattern.IsMatch(loginPass))
+                                {
+                                    Console.WriteLine("You are loged in !");
+                                    Console.ReadLine();
+                                    successfull = true;
+                                    break;
+                                }
+
+                                else
+                                {
+                                    Console.WriteLine("Your username or password  is incorrect, try again !");
+                                    Console.ReadLine();
+                                    break;
+                                }
+                             }
+                        }
+                        else
+                        {
+                            Console.WriteLine("No user available!");
                         }
 
                         break;
@@ -118,15 +124,26 @@ namespace Login_Register_App
                                 case "2":
                                     Console.WriteLine("Provide users email which you want to delete!");
                                     var userDelete = Console.ReadLine();
-                                    foreach(var user in arrUsers)
+                                    if (Array.IndexOf(arrUsers, userDelete) != -1)
                                     {
-                                        if (userDelete == user)
-                                            Array.Resize(ref arrUsers, arrUsers.Length - 1);
-                                            break;
+                                        foreach (var user in arrUsers)
+                                        {
+                                            arrUsers = Array.FindAll(arrUsers, (x) => x != userDelete);
+
+                                        }
+                                        Console.WriteLine("User is deleted!");
+                                        Console.ReadLine();
+
+                                        break;
                                     }
-                                    Console.WriteLine("User is deleted!");
-                                    Console.ReadLine();
+                                    else
+                                    {
+                                        Console.WriteLine("Such user does not exist!");
+                                        Console.ReadLine();
+
+                                    }
                                     break;
+                                    
                                 default:
                                     Console.WriteLine("Wrong choice, try again!");
                                     break;
