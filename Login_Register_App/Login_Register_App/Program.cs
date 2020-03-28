@@ -36,25 +36,22 @@ namespace Login_Register_App
                         Console.WriteLine("Enter your password:");
                         var passwords = Console.ReadLine();
                         var passPattern = new Regex("^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{10,}$");
-
-                        foreach(var user in arrUsers)
+                       
+                        if (emailPattern.IsMatch(username) && passPattern.IsMatch(passwords))
                         {
-                            if (emailPattern.IsMatch(username) && passPattern.IsMatch(passwords) && username != user)
-                            {
-                                Console.WriteLine("You have successfully registered !");
-                                Console.ReadLine();
-                                Array.Resize(ref arrUsers, arrUsers.Length + 1);
-                                arrUsers[arrUsers.Length - 1] = "new user";
-                                successfull = true;
-                                break;
-                            }
+                            Console.WriteLine("You have successfully registered !");
+                            Console.ReadLine();
+                            Array.Resize(ref arrUsers, arrUsers.Length + 1);
+                            arrUsers[arrUsers.Length - 1] = username;
+                            successfull = true;
+                            break;
+                        }
 
-                            else
-                            {
-                                Console.WriteLine("Your username or password  is incorrect, try again !");
-                                Console.ReadLine();
+                        else
+                        {
+                            Console.WriteLine("Your username or password  is incorrect, try again !");
+                            Console.ReadLine();
 
-                            }
                         }
                         
                         break;
