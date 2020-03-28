@@ -71,7 +71,7 @@ namespace Login_Register_App
                                 var pattern = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,30})+)$");
                                 var logPattern = new Regex("^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{10,}$");
 
-                                if (pattern.IsMatch(userEmail) && logPattern.IsMatch(loginPass))
+                                if (pattern.IsMatch(userEmail) && logPattern.IsMatch(loginPass) && pattern.IsMatch(user))
                                 {
                                     Console.WriteLine("You are loged in !");
                                     Console.ReadLine();
@@ -123,11 +123,7 @@ namespace Login_Register_App
                                     var userDelete = Console.ReadLine();
                                     if (Array.IndexOf(arrUsers, userDelete) != -1)
                                     {
-                                        foreach (var user in arrUsers)
-                                        {
-                                            arrUsers = Array.FindAll(arrUsers, (x) => x != userDelete);
-
-                                        }
+                                        arrUsers = Array.FindAll(arrUsers, (x) => x != userDelete);
                                         Console.WriteLine("User is deleted!");
                                         Console.ReadLine();
 
