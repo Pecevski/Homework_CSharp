@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Homework_String\Homework_String\bin\Debug\netcoreapp3.1\Homework_String.exe
+C:\Users\Dell\source\repos\Homework_String\Homework_String\bin\Debug\netcoreapp3.1\Homework_String.deps.json
+C:\Users\Dell\source\repos\Homework_String\Homework_String\bin\Debug\netcoreapp3.1\Homework_String.runtimeconfig.json
+C:\Users\Dell\source\repos\Homework_String\Homework_String\bin\Debug\netcoreapp3.1\Homework_String.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Homework_String\Homework_String\bin\Debug\netcoreapp3.1\Homework_String.dll
+C:\Users\Dell\source\repos\Homework_String\Homework_String\bin\Debug\netcoreapp3.1\Homework_String.pdb
+C:\Users\Dell\source\repos\Homework_String\Homework_String\obj\Debug\netcoreapp3.1\Homework_String.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Homework_String\Homework_String\obj\Debug\netcoreapp3.1\Homework_String.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Homework_String\Homework_String\obj\Debug\netcoreapp3.1\Homework_String.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Homework_String\Homework_String\obj\Debug\netcoreapp3.1\Homework_String.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Homework_String\Homework_String\obj\Debug\netcoreapp3.1\Homework_String.dll
+C:\Users\Dell\source\repos\Homework_String\Homework_String\obj\Debug\netcoreapp3.1\Homework_String.pdb
+C:\Users\Dell\source\repos\Homework_String\Homework_String\obj\Debug\netcoreapp3.1\Homework_String.genruntimeconfig.cache
