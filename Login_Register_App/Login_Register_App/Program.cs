@@ -3,6 +3,18 @@ using System.Text.RegularExpressions;
 
 namespace Login_Register_App
 {
+    public class Users
+    {
+        public string username;
+        public string password;
+
+        public Users(string username, string password)
+        {
+            this.username = username;
+            this.password = password;
+           
+        }
+    }
     class Program
     {
         static void Main(string[] args)
@@ -10,7 +22,8 @@ namespace Login_Register_App
             
             bool successfull = false;
             //string[]arrUsers = new string[100];
-            string[] arrUsers = new string[] { };
+            //ArrayList arrUsers = new ArrayList();
+            var arrUsers = new Users[] { };
             var admin = "admin@admindomain.com";
             var adminPass = "Ad#mi8$s@!";
 
@@ -22,7 +35,7 @@ namespace Login_Register_App
                 Console.WriteLine("3 - ADMIN");
                 Console.WriteLine("4 - LOGOUT");
                 Console.WriteLine("5 - EXIT APP");
-                string optionOne = Convert.ToString(Console.ReadLine());
+                string optionOne = Console.ReadLine();
 
                 switch (optionOne)
                 {
@@ -34,15 +47,15 @@ namespace Login_Register_App
                         var emailPattern = new Regex (@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,30})+)$");
 
                         Console.WriteLine("Enter your password:");
-                        var passwords = Console.ReadLine();
+                        var password = Console.ReadLine();
                         var passPattern = new Regex("^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{10,}$");
-                       
-                        if (emailPattern.IsMatch(username) && passPattern.IsMatch(passwords))
+
+                        if (emailPattern.IsMatch(username) && passPattern.IsMatch(password))
                         {
                             Console.WriteLine("You have successfully registered !");
                             Console.ReadLine();
                             Array.Resize(ref arrUsers, arrUsers.Length + 1);
-                            arrUsers[arrUsers.Length - 1] = username;
+                            arrUsers[arrUsers.Length - 1] = new Users(username, password);
                             successfull = true;
                             break;
                         }
@@ -53,7 +66,7 @@ namespace Login_Register_App
                             Console.ReadLine();
 
                         }
-                        
+
                         break;
 
                     case "2":
@@ -63,15 +76,16 @@ namespace Login_Register_App
                         var userEmail = Console.ReadLine();
                         Console.WriteLine("Enter your password:");
                         var loginPass = Console.ReadLine();
+
                         if (arrUsers.Length > 0)
                         {
-                            foreach (var user in arrUsers)
+                            foreach (Users user in arrUsers)
                             {
 
                                 var pattern = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,30})+)$");
                                 var logPattern = new Regex("^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{10,}$");
 
-                                if (pattern.IsMatch(userEmail) && logPattern.IsMatch(loginPass) && pattern.IsMatch(user))
+                                if (pattern.IsMatch(userEmail) && logPattern.IsMatch(loginPass) && pattern.IsMatch(user.username) && logPattern.IsMatch(user.password))
                                 {
                                     Console.WriteLine("You are loged in !");
                                     Console.ReadLine();
@@ -85,7 +99,7 @@ namespace Login_Register_App
                                     Console.ReadLine();
                                     break;
                                 }
-                             }
+                            }
                         }
                         else
                         {
@@ -107,23 +121,25 @@ namespace Login_Register_App
                             Console.WriteLine("Welcome Admin! Make your choise!");
                             Console.WriteLine("1 - List of all Users");
                             Console.WriteLine("2 - Delete User");
-                            string optionAdmin = Convert.ToString(Console.ReadLine());
+                            string optionAdmin = Console.ReadLine();
                             successfull = true;
                             switch (optionAdmin)
                             {
                                 case "1":
-                                     foreach (var user in arrUsers)
+                                    foreach (Users user in arrUsers)
                                     {
                                         Console.WriteLine(user);
                                         Console.ReadLine();
-                                    }          
+                                    }                                    
                                     break;
                                 case "2":
                                     Console.WriteLine("Provide users email which you want to delete!");
-                                    var userDelete = Console.ReadLine();
-                                    if (Array.IndexOf(arrUsers, userDelete) != -1)
+                                    var userToDelete = Console.ReadLine();
+
+                                    if (Array.IndexOf(arrUsers, userToDelete) != -1)
                                     {
-                                        arrUsers = Array.FindAll(arrUsers, (x) => x != userDelete);
+                                        arrUsers = Array.FindAll(arrUsers, (x) => x != userToDelete);
+                                        
                                         Console.WriteLine("User is deleted!");
                                         Console.ReadLine();
 
@@ -135,8 +151,8 @@ namespace Login_Register_App
                                         Console.ReadLine();
 
                                     }
+                                  
                                     break;
-                                    
                                 default:
                                     Console.WriteLine("Wrong choice, try again!");
                                     break;
