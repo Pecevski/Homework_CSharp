@@ -67,7 +67,7 @@ namespace Homework_Classes
             Console.WriteLine("1 - Eat");
             Console.WriteLine("2 - Play");
             Console.WriteLine("3 - ChaseTail");
-            string option = Convert.ToString(Console.ReadLine());
+            string option = Console.ReadLine();
 
             switch (option)
             {
