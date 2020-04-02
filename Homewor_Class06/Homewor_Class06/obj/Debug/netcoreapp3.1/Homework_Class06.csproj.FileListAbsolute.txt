@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\obj\Debug\netcoreapp3.1\Homework_Class06.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\obj\Debug\netcoreapp3.1\Homework_Class06.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\obj\Debug\netcoreapp3.1\Homework_Class06.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\obj\Debug\netcoreapp3.1\Homework_Class06.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\bin\Debug\netcoreapp3.1\Homework_Class06.exe
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\bin\Debug\netcoreapp3.1\Homework_Class06.deps.json
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\bin\Debug\netcoreapp3.1\Homework_Class06.runtimeconfig.json
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\bin\Debug\netcoreapp3.1\Homework_Class06.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\bin\Debug\netcoreapp3.1\Homework_Class06.dll
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\bin\Debug\netcoreapp3.1\Homework_Class06.pdb
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\obj\Debug\netcoreapp3.1\Homework_Class06.dll
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\obj\Debug\netcoreapp3.1\Homework_Class06.pdb
+C:\Users\Dell\OneDrive\Vezbi_C#\Homewor_Class06\Homewor_Class06\obj\Debug\netcoreapp3.1\Homework_Class06.genruntimeconfig.cache
