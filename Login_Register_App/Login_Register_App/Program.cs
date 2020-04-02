@@ -1,17 +1,17 @@
-﻿using System;
+using System;
 using System.Text.RegularExpressions;
 
 namespace Login_Register_App
 {
     public class Users
     {
-        public string username;
-        public string password;
+        public string Username;
+        public string Password;
 
         public Users(string username, string password)
         {
-            this.username = username;
-            this.password = password;
+            Username = username;
+            Password = password;
            
         }
     }
@@ -85,7 +85,7 @@ namespace Login_Register_App
                                 var pattern = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,30})+)$");
                                 var logPattern = new Regex("^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{10,}$");
 
-                                if (pattern.IsMatch(userEmail) && logPattern.IsMatch(loginPass) && pattern.IsMatch(user.username) && logPattern.IsMatch(user.password))
+                                if (pattern.IsMatch(userEmail) && logPattern.IsMatch(loginPass) && pattern.IsMatch(user.Username) && logPattern.IsMatch(user.Password))
                                 {
                                     Console.WriteLine("You are loged in !");
                                     Console.ReadLine();
@@ -134,12 +134,12 @@ namespace Login_Register_App
                                     break;
                                 case "2":
                                     Console.WriteLine("Provide users email which you want to delete!");
-                                    var userToDelete = Console.ReadLine();
-
-                                    if (Array.IndexOf(arrUsers, userToDelete) != -1)
+                                    var userToDeleteInput = Console.ReadLine();
+                                    var UserToDelete = Array.FindAll(arrUsers, user => user.Username == userToDeleteInput);
+                                    if (UserToDelete != null)
                                     {
-                                        arrUsers = Array.FindAll(arrUsers, (x) => x != userToDelete);
-                                        
+                                        arrUsers = Array.FindAll(arrUsers, user => user.Username != UserToDelete.Username);
+
                                         Console.WriteLine("User is deleted!");
                                         Console.ReadLine();
 
