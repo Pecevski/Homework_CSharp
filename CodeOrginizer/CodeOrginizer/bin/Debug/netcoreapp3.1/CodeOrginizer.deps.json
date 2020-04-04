@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodeOrginizer/1.0.0": {
+        "dependencies": {
+          "PersonServices": "1.0.0"
+        },
+        "runtime": {
+          "CodeOrginizer.dll": {}
+        }
+      },
+      "PersonServices/1.0.0": {
+        "runtime": {
+          "PersonServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeOrginizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
