@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeOrginizer", "CodeOrginizer\CodeOrginizer.csproj", "{3BA7963F-A64A-492B-B10F-44BF29861E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonServices", "Services\PersonServices.csproj", "{CB2B6BD0-028A-4E4E-9E56-0C0A6BE9AE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA7963F-A64A-492B-B10F-44BF29861E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA7963F-A64A-492B-B10F-44BF29861E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA7963F-A64A-492B-B10F-44BF29861E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA7963F-A64A-492B-B10F-44BF29861E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB2B6BD0-028A-4E4E-9E56-0C0A6BE9AE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB2B6BD0-028A-4E4E-9E56-0C0A6BE9AE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB2B6BD0-028A-4E4E-9E56-0C0A6BE9AE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB2B6BD0-028A-4E4E-9E56-0C0A6BE9AE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98FEC4D8-8C76-4586-8A02-78DA8EB57949}
+	EndGlobalSection
+EndGlobal
