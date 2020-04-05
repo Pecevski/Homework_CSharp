@@ -1,0 +1,9 @@
+C:\Users\Dell\OneDrive\Vezbi_C#\CodeOrginizer\Services\bin\Debug\netcoreapp3.1\PersonServices.deps.json
+C:\Users\Dell\OneDrive\Vezbi_C#\CodeOrginizer\Services\bin\Debug\netcoreapp3.1\PersonServices.dll
+C:\Users\Dell\OneDrive\Vezbi_C#\CodeOrginizer\Services\bin\Debug\netcoreapp3.1\PersonServices.pdb
+C:\Users\Dell\OneDrive\Vezbi_C#\CodeOrginizer\Services\obj\Debug\netcoreapp3.1\PersonServices.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\CodeOrginizer\Services\obj\Debug\netcoreapp3.1\PersonServices.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\CodeOrginizer\Services\obj\Debug\netcoreapp3.1\PersonServices.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\CodeOrginizer\Services\obj\Debug\netcoreapp3.1\PersonServices.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Vezbi_C#\CodeOrginizer\Services\obj\Debug\netcoreapp3.1\PersonServices.dll
+C:\Users\Dell\OneDrive\Vezbi_C#\CodeOrginizer\Services\obj\Debug\netcoreapp3.1\PersonServices.pdb
