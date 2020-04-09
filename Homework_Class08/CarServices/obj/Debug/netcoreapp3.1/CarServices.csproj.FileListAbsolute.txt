@@ -1,0 +1,9 @@
+C:\Users\Dell\OneDrive\Vezbi_C#\Homework_Class08\CarServices\bin\Debug\netcoreapp3.1\CarServices.deps.json
+C:\Users\Dell\OneDrive\Vezbi_C#\Homework_Class08\CarServices\bin\Debug\netcoreapp3.1\CarServices.dll
+C:\Users\Dell\OneDrive\Vezbi_C#\Homework_Class08\CarServices\bin\Debug\netcoreapp3.1\CarServices.pdb
+C:\Users\Dell\OneDrive\Vezbi_C#\Homework_Class08\CarServices\obj\Debug\netcoreapp3.1\CarServices.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\Homework_Class08\CarServices\obj\Debug\netcoreapp3.1\CarServices.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\Homework_Class08\CarServices\obj\Debug\netcoreapp3.1\CarServices.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\Homework_Class08\CarServices\obj\Debug\netcoreapp3.1\CarServices.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Vezbi_C#\Homework_Class08\CarServices\obj\Debug\netcoreapp3.1\CarServices.dll
+C:\Users\Dell\OneDrive\Vezbi_C#\Homework_Class08\CarServices\obj\Debug\netcoreapp3.1\CarServices.pdb

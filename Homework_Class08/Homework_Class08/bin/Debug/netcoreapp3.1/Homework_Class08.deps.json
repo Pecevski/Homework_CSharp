@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Homework_Class08/1.0.0": {
+        "dependencies": {
+          "CarServices": "1.0.0"
+        },
+        "runtime": {
+          "Homework_Class08.dll": {}
+        }
+      },
+      "CarServices/1.0.0": {
+        "runtime": {
+          "CarServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework_Class08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
