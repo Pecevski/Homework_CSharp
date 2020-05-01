@@ -15,7 +15,7 @@ namespace Lottary.Helpers
             var fullName = Console.ReadLine();
             var ticket = new Ticket();
 
-            User.BuyTicket(fullName);
+            //User.BuyTicket(fullName);
 
             Console.WriteLine("Input the age: ");
 
