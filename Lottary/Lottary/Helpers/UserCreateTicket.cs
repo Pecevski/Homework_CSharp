@@ -20,18 +20,20 @@ namespace Lottary.Helpers
             Console.WriteLine("Input the age: ");
 
             var inputAge = Console.ReadLine();
+            
+            
             int.TryParse(inputAge, out int age);
             while (true)
             {
                 if (age > 17)
                 {
-                    ticket.User.SetAge(age);
+                    Console.WriteLine("Please enter a valid age!"); 
                     break;
                 }
-                Console.WriteLine("Please enter a valid age!");
                 inputAge = Console.ReadLine();
             };
-           
+            user = new User(fullName, inputAge);
+            ticket.user = user;
 
             //Console.WriteLine("Input your combination of 7 numbers from 1 to 36");
 
