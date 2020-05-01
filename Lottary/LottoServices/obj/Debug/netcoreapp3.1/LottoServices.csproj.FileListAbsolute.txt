@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Lottary\LottoServices\bin\Debug\netcoreapp3.1\LottoServices.deps.json
+C:\Users\Dell\source\repos\Lottary\LottoServices\bin\Debug\netcoreapp3.1\LottoServices.dll
+C:\Users\Dell\source\repos\Lottary\LottoServices\bin\Debug\netcoreapp3.1\LottoServices.pdb
+C:\Users\Dell\source\repos\Lottary\LottoServices\obj\Debug\netcoreapp3.1\LottoServices.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Lottary\LottoServices\obj\Debug\netcoreapp3.1\LottoServices.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Lottary\LottoServices\obj\Debug\netcoreapp3.1\LottoServices.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Lottary\LottoServices\obj\Debug\netcoreapp3.1\LottoServices.dll
+C:\Users\Dell\source\repos\Lottary\LottoServices\obj\Debug\netcoreapp3.1\LottoServices.pdb
