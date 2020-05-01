@@ -33,7 +33,7 @@ namespace Lottary.Helpers
             };
            
 
-            //Console.WriteLine("Input your combination of 7 numbers from 1 to 36");
+            Console.WriteLine("Input your combination of 7 numbers from 1 to 36");
 
             for (int i = 0; i < ticket.Combination.Length; i++)
             {
