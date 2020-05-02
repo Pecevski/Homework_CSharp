@@ -1,4 +1,4 @@
-﻿using Lottary.Entities;
+using Lottary.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -7,20 +7,20 @@ namespace Lottary.Helpers
 {
     public class UserCreateTicket
     {
-
         public static void CreateTicket()
         {
-           
+
             Console.Write("Input fullname: ");
             var fullName = Console.ReadLine();
             var ticket = new Ticket();
-
-            //User.BuyTicket(fullName);
+            var user = new User(fullName);
+            ticket.User = user;
+            
 
             Console.WriteLine("Input the age: ");
+           
+            var inputAge = int.TryParse(Console.ReadLine(), out int age);
 
-            var inputAge = Console.ReadLine();
-            int.TryParse(inputAge, out int age);
             while (true)
             {
                 if (age > 17)
@@ -29,9 +29,10 @@ namespace Lottary.Helpers
                     break;
                 }
                 Console.WriteLine("Please enter a valid age!");
-                inputAge = Console.ReadLine();
+                inputAge = int.TryParse(Console.ReadLine(), out _);
+                break;
             };
-           
+            
 
             Console.WriteLine("Input your combination of 7 numbers from 1 to 36");
 
@@ -49,17 +50,20 @@ namespace Lottary.Helpers
                             inputNumbers = int.TryParse(Console.ReadLine(), out number);
 
                         }
-
                     }
                     ticket.Combination[i] = number;
                     continue;
                 }
-
-                Console.WriteLine("Please enter a valid number!");
-                Console.ReadLine();
+                else
+                {
+                    Console.WriteLine("Please enter a valid number!");
+                    Console.ReadLine();
+                }
             }
+            
             Session.ArrayOfTickets(ticket);
-        
-    }
+            user.BuyTicket(fullName);
+        }
+
     }
 }
