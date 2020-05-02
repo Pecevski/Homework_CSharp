@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -10,7 +10,17 @@ namespace Lottary.Entities
         {
 
         }
+        public User(string fullname)
+        {
+            FullName = fullname;
+        }
+        public User(string fullName, int age)
+        {
+            FullName = fullName;
+            Age = age;
+        }
 
+        
         public string FullName { get; set; }
         public int Age { get; set; }
 
