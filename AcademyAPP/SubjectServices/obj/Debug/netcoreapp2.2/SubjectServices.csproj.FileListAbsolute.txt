@@ -1,0 +1,9 @@
+C:\Users\Dell\OneDrive\Vezbi_C#\Class7FullStructure\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.deps.json
+C:\Users\Dell\OneDrive\Vezbi_C#\Class7FullStructure\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.dll
+C:\Users\Dell\OneDrive\Vezbi_C#\Class7FullStructure\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.pdb
+C:\Users\Dell\OneDrive\Vezbi_C#\Class7FullStructure\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\Class7FullStructure\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\Class7FullStructure\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\Class7FullStructure\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Vezbi_C#\Class7FullStructure\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.dll
+C:\Users\Dell\OneDrive\Vezbi_C#\Class7FullStructure\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.pdb
