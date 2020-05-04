@@ -1,19 +1,19 @@
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
 namespace Login_Register_App
 {
-    public class Users
+    public class User
     {
-        public string Username;
-        public string Password;
+        public Dictionary<string, string> UserNamePassword { get; set; }
 
-        public Users(string username, string password)
+        public User()
         {
-            Username = username;
-            Password = password;
-           
-        }
+            UserNamePassword = new Dictionary<string, string>();
+
+            }
     }
     class Program
     {
@@ -21,9 +21,11 @@ namespace Login_Register_App
         {
             
             bool successfull = false;
-            //string[]arrUsers = new string[100];
-            //ArrayList arrUsers = new ArrayList();
-            var arrUsers = new Users[] { };
+            
+            Dictionary<string, string> arrUsers = new Dictionary<string, string>();
+            arrUsers.Add("ilija@domain.com", "Stasi1505#!");
+            arrUsers.Add("random@domain.com", "Don@Joe12!");
+           
             var admin = "admin@admindomain.com";
             var adminPass = "Ad#mi8$s@!";
 
@@ -54,8 +56,8 @@ namespace Login_Register_App
                         {
                             Console.WriteLine("You have successfully registered !");
                             Console.ReadLine();
-                            Array.Resize(ref arrUsers, arrUsers.Length + 1);
-                            arrUsers[arrUsers.Length - 1] = new Users(username, password);
+                            arrUsers.Add(username, password);
+                            
                             successfull = true;
                             break;
                         }
@@ -77,17 +79,17 @@ namespace Login_Register_App
                         Console.WriteLine("Enter your password:");
                         var loginPass = Console.ReadLine();
 
-                        if (arrUsers.Length > 0)
+                        if (arrUsers.ContainsKey(userEmail))
                         {
-                            foreach (Users user in arrUsers)
+                            foreach (var user in arrUsers)
                             {
 
                                 var pattern = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,30})+)$");
                                 var logPattern = new Regex("^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{10,}$");
 
-                                if (pattern.IsMatch(userEmail) && logPattern.IsMatch(loginPass) && pattern.IsMatch(user.Username) && logPattern.IsMatch(user.Password))
+                                if (pattern.IsMatch(userEmail) && logPattern.IsMatch(loginPass) && pattern.IsMatch(user.Key) && logPattern.IsMatch(user.Value))
                                 {
-                                    Console.WriteLine("You are loged in !");
+                                    Console.WriteLine("You are logged in !");
                                     Console.ReadLine();
                                     successfull = true;
                                     break;
@@ -126,7 +128,7 @@ namespace Login_Register_App
                             switch (optionAdmin)
                             {
                                 case "1":
-                                    foreach (Users user in arrUsers)
+                                    foreach (var user in arrUsers)
                                     {
                                         Console.WriteLine(user);
                                         Console.ReadLine();
@@ -134,12 +136,12 @@ namespace Login_Register_App
                                     break;
                                 case "2":
                                     Console.WriteLine("Provide users email which you want to delete!");
-                                    var userToDeleteInput = Console.ReadLine();
-                                    var UserToDelete = Array.FindAll(arrUsers, user => user.Username == userToDeleteInput);
-                                    if (UserToDelete != null)
+                                    var userToDelete = Console.ReadLine();
+                                    
+                                    if (arrUsers.ContainsKey(userToDelete))
                                     {
-                                        arrUsers = Array.FindAll(arrUsers, user => user.Username != UserToDelete.Username);
-
+                                        
+                                        arrUsers.Remove(userToDelete);
                                         Console.WriteLine("User is deleted!");
                                         Console.ReadLine();
 
@@ -151,7 +153,7 @@ namespace Login_Register_App
                                         Console.ReadLine();
 
                                     }
-                                  
+
                                     break;
                                 default:
                                     Console.WriteLine("Wrong choice, try again!");
