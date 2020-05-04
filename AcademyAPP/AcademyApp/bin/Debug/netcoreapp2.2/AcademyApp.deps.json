@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "AcademyApp/1.0.0": {
+        "dependencies": {
+          "SubjectServices": "1.0.0"
+        },
+        "runtime": {
+          "AcademyApp.dll": {}
+        }
+      },
+      "SubjectServices/1.0.0": {
+        "runtime": {
+          "SubjectServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcademyApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SubjectServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
