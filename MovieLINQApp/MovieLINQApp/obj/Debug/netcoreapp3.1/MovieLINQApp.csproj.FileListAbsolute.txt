@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\bin\Debug\netcoreapp3.1\MovieLINQApp.exe
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\bin\Debug\netcoreapp3.1\MovieLINQApp.deps.json
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\bin\Debug\netcoreapp3.1\MovieLINQApp.runtimeconfig.json
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\bin\Debug\netcoreapp3.1\MovieLINQApp.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\bin\Debug\netcoreapp3.1\MovieLINQApp.dll
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\bin\Debug\netcoreapp3.1\MovieLINQApp.pdb
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\obj\Debug\netcoreapp3.1\MovieLINQApp.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\obj\Debug\netcoreapp3.1\MovieLINQApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\obj\Debug\netcoreapp3.1\MovieLINQApp.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\obj\Debug\netcoreapp3.1\MovieLINQApp.AssemblyInfo.cs
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\obj\Debug\netcoreapp3.1\MovieLINQApp.dll
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\obj\Debug\netcoreapp3.1\MovieLINQApp.pdb
+C:\Users\Dell\source\repos\MovieLINQApp\MovieLINQApp\obj\Debug\netcoreapp3.1\MovieLINQApp.genruntimeconfig.cache
