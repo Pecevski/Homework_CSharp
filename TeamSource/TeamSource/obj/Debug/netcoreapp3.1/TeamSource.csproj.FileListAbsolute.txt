@@ -1,0 +1,18 @@
+C:\Users\Dell\Downloads\skwd8-05-oopcsharp-master (1)\skwd8-05-oopcsharp-master\g1\Class13Prep\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.deps.json
+C:\Users\Dell\Downloads\skwd8-05-oopcsharp-master (1)\skwd8-05-oopcsharp-master\g1\Class13Prep\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\Dell\Downloads\skwd8-05-oopcsharp-master (1)\skwd8-05-oopcsharp-master\g1\Class13Prep\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\Dell\Downloads\skwd8-05-oopcsharp-master (1)\skwd8-05-oopcsharp-master\g1\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\skwd8-05-oopcsharp-master (1)\skwd8-05-oopcsharp-master\g1\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\skwd8-05-oopcsharp-master (1)\skwd8-05-oopcsharp-master\g1\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\skwd8-05-oopcsharp-master (1)\skwd8-05-oopcsharp-master\g1\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfo.cs
+C:\Users\Dell\Downloads\skwd8-05-oopcsharp-master (1)\skwd8-05-oopcsharp-master\g1\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\Dell\Downloads\skwd8-05-oopcsharp-master (1)\skwd8-05-oopcsharp-master\g1\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\Dell\OneDrive\Vezbi_C#\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.deps.json
+C:\Users\Dell\OneDrive\Vezbi_C#\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\Dell\OneDrive\Vezbi_C#\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\Dell\OneDrive\Vezbi_C#\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Vezbi_C#\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Vezbi_C#\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\Dell\OneDrive\Vezbi_C#\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.pdb
