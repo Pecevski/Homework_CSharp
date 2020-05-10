@@ -101,11 +101,11 @@ namespace GameCenter
 ;
             Console.WriteLine("----------------------------------------------------------");
             // Find All players NAMES and PtsPerGame if have RebPerGame > 7.0
-            var playerNamesPtsIfRebPerGame7High = (from player in allPlayers
+             var playerNamesPtsIfRebPerGame7High = (from player in allPlayers
                                                    where player.PlayerStatistic["RebPerGame"] > 7
-                                                   select player).ToList();
+                                                   select player).Select(player => new { Name = player.FullName, Points = player.PlayerStatistic["PtsPerGame"]}).ToList();
 
-            playerNamesPtsIfRebPerGame7High.ForEach(player => Console.WriteLine($"{player.FullName} - {player.PlayerStatistic["PtsPerGame"]}"));
+            playerNamesPtsIfRebPerGame7High.ForEach(player => Console.WriteLine(player));
 
             Console.WriteLine("----------------------------------------------------------");
             // Find first 3 players with highest PtsPerGame
