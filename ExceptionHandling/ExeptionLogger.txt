@@ -1,0 +1,2 @@
+Exception Exception of type 'System.Exception' was thrown.    at WebApi.Service.UserService.GetUsersFriends(User findUser) in C:\Users\Dell\source\repos\ExceptionHandling\WebApi\Service\UserService.cs:line 42
+   at FakeFacebook.Program.Main(String[] args) in C:\Users\Dell\source\repos\ExceptionHandling\FakeFacebook\Program.cs:line 24

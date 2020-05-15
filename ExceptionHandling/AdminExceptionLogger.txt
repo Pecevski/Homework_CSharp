@@ -1,0 +1,2 @@
+Exception Sequence contains no matching element    at WebApi.Service.AdminService.AdminSupervisor(Admin adminSupervisor) in C:\Users\Dell\source\repos\ExceptionHandling\WebApi\Service\AdminService.cs:line 37
+   at FakeFacebook.Program.Main(String[] args) in C:\Users\Dell\source\repos\ExceptionHandling\FakeFacebook\Program.cs:line 59
