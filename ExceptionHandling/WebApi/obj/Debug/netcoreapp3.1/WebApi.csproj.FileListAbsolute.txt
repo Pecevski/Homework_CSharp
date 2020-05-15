@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\Dell\source\repos\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\Dell\source\repos\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\Dell\source\repos\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\Dell\source\repos\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
