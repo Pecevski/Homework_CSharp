@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\bin\Debug\netcoreapp3.1\LINQ.App.exe
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\bin\Debug\netcoreapp3.1\LINQ.App.deps.json
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\bin\Debug\netcoreapp3.1\LINQ.App.runtimeconfig.json
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\bin\Debug\netcoreapp3.1\LINQ.App.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\bin\Debug\netcoreapp3.1\LINQ.App.dll
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\bin\Debug\netcoreapp3.1\LINQ.App.pdb
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\obj\Debug\netcoreapp3.1\LINQ.App.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\obj\Debug\netcoreapp3.1\LINQ.App.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\obj\Debug\netcoreapp3.1\LINQ.App.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\obj\Debug\netcoreapp3.1\LINQ.App.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\obj\Debug\netcoreapp3.1\LINQ.App.dll
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\obj\Debug\netcoreapp3.1\LINQ.App.pdb
+C:\Users\Dell\source\repos\Exercise.LINQ\LINQ.App\obj\Debug\netcoreapp3.1\LINQ.App.genruntimeconfig.cache
