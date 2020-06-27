@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\DogExercise\DogExercise\bin\Debug\netcoreapp3.1\DogExercise.exe
+C:\Users\Dell\source\repos\DogExercise\DogExercise\bin\Debug\netcoreapp3.1\DogExercise.deps.json
+C:\Users\Dell\source\repos\DogExercise\DogExercise\bin\Debug\netcoreapp3.1\DogExercise.runtimeconfig.json
+C:\Users\Dell\source\repos\DogExercise\DogExercise\bin\Debug\netcoreapp3.1\DogExercise.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\DogExercise\DogExercise\bin\Debug\netcoreapp3.1\DogExercise.dll
+C:\Users\Dell\source\repos\DogExercise\DogExercise\bin\Debug\netcoreapp3.1\DogExercise.pdb
+C:\Users\Dell\source\repos\DogExercise\DogExercise\obj\Debug\netcoreapp3.1\DogExercise.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\DogExercise\DogExercise\obj\Debug\netcoreapp3.1\DogExercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DogExercise\DogExercise\obj\Debug\netcoreapp3.1\DogExercise.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DogExercise\DogExercise\obj\Debug\netcoreapp3.1\DogExercise.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DogExercise\DogExercise\obj\Debug\netcoreapp3.1\DogExercise.dll
+C:\Users\Dell\source\repos\DogExercise\DogExercise\obj\Debug\netcoreapp3.1\DogExercise.pdb
+C:\Users\Dell\source\repos\DogExercise\DogExercise\obj\Debug\netcoreapp3.1\DogExercise.genruntimeconfig.cache
