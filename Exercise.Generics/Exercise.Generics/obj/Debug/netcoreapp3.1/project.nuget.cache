@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V348vQvPm5zHO5e/YtZwcYiTPLEbeTAQ4agKPm3VYuvMDo2ZqzGcoLpU7/ov7JWAyOXD6htMiyuENgSAYMDCqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\Exercise.Generics\\Exercise.Generics\\Exercise.Generics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\documentformat.openxml\\2.11.0\\documentformat.openxml.2.11.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
