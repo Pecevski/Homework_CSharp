@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\bin\Debug\netcoreapp3.1\Exercise.Generics.exe
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\obj\Debug\netcoreapp3.1\Exercise.Generics.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\obj\Debug\netcoreapp3.1\Exercise.Generics.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\obj\Debug\netcoreapp3.1\Exercise.Generics.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\bin\Debug\netcoreapp3.1\Exercise.Generics.deps.json
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\bin\Debug\netcoreapp3.1\Exercise.Generics.runtimeconfig.json
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\bin\Debug\netcoreapp3.1\Exercise.Generics.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\bin\Debug\netcoreapp3.1\Exercise.Generics.dll
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\bin\Debug\netcoreapp3.1\Exercise.Generics.pdb
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\obj\Debug\netcoreapp3.1\Exercise.Generics.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\obj\Debug\netcoreapp3.1\Exercise.Generics.csproj.CopyComplete
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\obj\Debug\netcoreapp3.1\Exercise.Generics.dll
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\obj\Debug\netcoreapp3.1\Exercise.Generics.pdb
+C:\Users\Dell\source\repos\Exercise.Generics\Exercise.Generics\obj\Debug\netcoreapp3.1\Exercise.Generics.genruntimeconfig.cache
