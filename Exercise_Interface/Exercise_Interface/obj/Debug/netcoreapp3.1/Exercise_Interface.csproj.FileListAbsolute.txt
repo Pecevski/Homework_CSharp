@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\bin\Debug\netcoreapp3.1\Exercise_Interface.exe
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\bin\Debug\netcoreapp3.1\Exercise_Interface.deps.json
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\bin\Debug\netcoreapp3.1\Exercise_Interface.runtimeconfig.json
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\bin\Debug\netcoreapp3.1\Exercise_Interface.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\bin\Debug\netcoreapp3.1\Exercise_Interface.dll
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\bin\Debug\netcoreapp3.1\Exercise_Interface.pdb
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\obj\Debug\netcoreapp3.1\Exercise_Interface.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\obj\Debug\netcoreapp3.1\Exercise_Interface.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\obj\Debug\netcoreapp3.1\Exercise_Interface.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\obj\Debug\netcoreapp3.1\Exercise_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\obj\Debug\netcoreapp3.1\Exercise_Interface.dll
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\obj\Debug\netcoreapp3.1\Exercise_Interface.pdb
+C:\Users\Dell\source\repos\Exercise_Interface\Exercise_Interface\obj\Debug\netcoreapp3.1\Exercise_Interface.genruntimeconfig.cache
