@@ -28,8 +28,7 @@ namespace FileSystemCalc
             }
 
             string newFile = Path.Combine(folderCreate, "Calculation.txt");
-            File.WriteAllText(newFile, "");
-
+            
             using (StreamWriter sw = new StreamWriter(newFile, true))
             {
                 sw.WriteLine("{0} + {1} = {2}", num1, num2, Sum(num1, num2));
