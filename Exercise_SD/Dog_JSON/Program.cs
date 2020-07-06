@@ -17,12 +17,7 @@ namespace Dog_JSON
             Console.WriteLine("Input dogs color : ");
             string dogColor = Console.ReadLine();
 
-            Dog rex = new Dog(dogName, dogAge, dogColor)
-            {
-                Name = dogName,
-                Age = dogAge,
-                Color = dogColor
-            };
+            Dog rex = new Dog(dogName, dogAge, dogColor);
 
             string fileDog = @".\file.txt";
             if (!File.Exists(fileDog))
