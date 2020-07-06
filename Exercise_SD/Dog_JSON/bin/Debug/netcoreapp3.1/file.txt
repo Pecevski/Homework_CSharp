@@ -1,0 +1,7 @@
+{"Name":"Rex","Age":3,"Color":"Black"}
+{"Name":"Jacky","Age":5,"Color":"Brown"}
+{"Name":"Blacky","Age":1,"Color":"Black"}
+{"Name":"Johny","Age":6,"Color":"White"}
+{"Name":"Kalc","Age":2,"Color":"Gray"}
+{"Name":"Stark","Age":9,"Color":"White"}
+{"Name":"Bak","Age":9,"Color":"grey"}
