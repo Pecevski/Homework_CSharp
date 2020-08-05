@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.AssemblyInfo.cs
+C:\Users\Dell\source\repos\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.exe
+C:\Users\Dell\source\repos\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.deps.json
+C:\Users\Dell\source\repos\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.runtimeconfig.json
+C:\Users\Dell\source\repos\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.dll
+C:\Users\Dell\source\repos\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.pdb
+C:\Users\Dell\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.dll
+C:\Users\Dell\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.pdb
+C:\Users\Dell\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.genruntimeconfig.cache
